@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+
+	<brick>
+
+		<x>539</x>
+
+		<y>133</y>
+
+		<hp>1</hp>
+
+		<colour>Crimson</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>612</x>
+		
+		<y>133</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>650</x>
+
+		<y>170</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>688</x>
+
+		<y>208</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>722</x>
+
+		<y>247</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>755</x>
+
+		<y>284</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>755</x>
+
+		<y>321</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>755</x>
+
+		<y>358</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>755</x>
+
+		<y>396</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>722</x>
+
+		<y>434</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+		
+	</brick>
+
+	<brick>
+
+		<x>688</x>
+
+		<y>471</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>650</x>
+
+		<y>508</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>612</x>
+
+		<y>544</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>539</x>
+
+		<y>544</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>465</x>
+
+		<y>544</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>427</x>
+
+		<y>508</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>390</x>
+
+		<y>471</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>353</x>
+
+		<y>434</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>316</x>
+
+		<y>396</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>316</x>
+
+		<y>358</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>316</x>
+
+		<y>321</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>316</x>
+
+		<y>284</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>353</x>
+
+		<y>247</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>390</x>
+
+		<y>208</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>427</x>
+
+		<y>170</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>465</x>
+
+		<y>133</y>
+
+		<hp>100</hp>
+
+		<colour>Khaki</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>479</x>
+
+		<y>284</y>
+
+		<hp>5</hp>
+
+		<colour>Crimson</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>594</x>
+
+		<y>284</y>
+
+		<hp>5</hp>
+
+		<colour>Crimson</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>427</x>
+
+		<y>358</y>
+
+		<hp>10</hp>
+
+		<colour>White</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>365</x>
+
+		<y>396</y>
+
+		<hp>10</hp>
+
+		<colour>White</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>500</x>
+
+		<y>434</y>
+
+		<hp>10</hp>
+
+		<colour>White</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>569</x>
+
+		<y>434</y>
+
+		<hp>10</hp>
+
+		<colour>White</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>612</x>
+
+		<y>396</y>
+
+		<hp>10</hp>
+
+		<colour>White</colour>
+
+	</brick>
+
+	<brick>
+
+		<x>650</x>
+
+		<y>358</y>
+
+		<hp>10</hp>
+
+		<colour>White</colour>
+
+	</brick>
+
+</level>
